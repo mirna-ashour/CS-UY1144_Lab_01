@@ -1,0 +1,6 @@
+1-1-east-inf
+streets 12
+
+# track
+northsouthwalls 11 1 1
+eastwestwalls 1 1 12

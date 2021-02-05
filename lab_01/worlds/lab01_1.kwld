@@ -1,0 +1,26 @@
+1-1-north-inf
+streets 10
+
+# container
+eastwestwalls 1 2 9
+northsouthwalls 1 2 7
+eastwestwalls 7 2 9
+northsouthwalls 9 2 7
+
+# track grid
+eastwestwalls 2 2 9
+eastwestwalls 3 2 9
+eastwestwalls 4 2 9
+eastwestwalls 5 2 9
+eastwestwalls 6 2 9
+northsouthwalls 8 2 7
+northsouthwalls 7 2 7
+northsouthwalls 6 2 7
+northsouthwalls 5 2 7
+northsouthwalls 4 2 7
+northsouthwalls 3 2 7
+northsouthwalls 2 2 7
+
+# borders
+northsouthwalls 10 1 8
+eastwestwalls 8 1 10

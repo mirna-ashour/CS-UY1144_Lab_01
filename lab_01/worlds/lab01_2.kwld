@@ -1,0 +1,12 @@
+1-1-north-inf
+streets 7
+
+# container
+eastwestwalls 1 2 6
+eastwestwalls 5 3 6
+northsouthwalls 1 2 5
+northsouthwalls 6 2 5
+
+# borders
+eastwestwalls 6 1 7
+northsouthwalls 7 1 6
